@@ -5,3 +5,5 @@ This repo contains the files needed for a challenge done as part of the intervie
 The 3 csv files are the provided ones.
 
 The ipnyb file contains all the necessary code, as it has been done in Google Colab and the option to structure the code in modules did not work.
+
+Each block of the ipnyb has its brief explanation in markdown format.
